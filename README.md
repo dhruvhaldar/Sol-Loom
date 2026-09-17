@@ -1,6 +1,19 @@
 # Sol Loom
 
-The solar system, alive in your browser. Sol Loom is a responsive, time-aware 3D model built with Next.js, React, TypeScript, Three.js, and React Three Fiber.
+The solar system, alive in your browser.
+
+## Preview
+
+![Sol Loom's interactive solar system overview, with orbital paths and the planet explorer](public/images/msedge_CIsSHdLuEE.png)
+
+<details>
+<summary>Watch the planet views in motion (47 MB GIF)</summary>
+
+![Animated Sol Loom planet views, moving between worlds in the 3D explorer](public/images/msedge_upU8LhW37T.gif)
+
+</details>
+
+Sol Loom is a responsive, time-aware 3D model built with Next.js, React, TypeScript, Three.js, and React Three Fiber.
 
 ## Run locally
 
